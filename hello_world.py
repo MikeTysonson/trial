@@ -6,6 +6,6 @@ if __name__ == "__main__":
   print ('why do i even add if it all goes in one Aufwasch')
 
 
-from monkey.py  import * 
+from monkey  import * 
 
 printSome()
