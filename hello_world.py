@@ -7,7 +7,7 @@ if __name__ == "__main__":
   print ('how can git now this is the same file if both name and content changed')
   print ('why do i even add if it all goes in one Aufwasch')
 
-
+# okay, but now here it becomes different even
 from monkey  import * 
 
 printSome()
