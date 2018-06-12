@@ -7,6 +7,7 @@ if __name__ == "__main__":
   print ('how can git now this is the same file if both name and content changed')
   print ('why do i even add if it all goes in one Aufwasch')
 
+# jup
 # hey, i changed a lot of stuff and now i have a conflict
 from monkey  import * 
 
